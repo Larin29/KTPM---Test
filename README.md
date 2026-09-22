@@ -1,4 +1,3 @@
-
 # 🏢 Apartment Management System (AMS)
 
 Hệ thống quản lý chung cư toàn diện, hiện đại, tối ưu hóa quy trình vận hành và nâng cao trải nghiệm cư dân.
@@ -104,6 +103,9 @@ npm run dev
 - [Backend Documentation](./Backend/README.md) - Hướng dẫn chi tiết dành cho Backend Developer.
 - [API Documentation](./Backend%20Docs/API%20Docs.md) - Đặc tả chi tiết Request/Response của các API.
 
----
-**Developed by [Your Team Name]**
+
+
+
+dsfkjsdahflsajfdk;;;jalksdfjaflkasjdflkasfjls
+
 
